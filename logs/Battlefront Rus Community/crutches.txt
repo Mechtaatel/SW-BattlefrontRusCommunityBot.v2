@@ -1,6 +1,0 @@
-[2025-03-05 19:14:19] BattlefrontModding #showcase: made this guy, or whatever his name is
-[2025-03-06 12:44:34] BattlefrontModding #showcase: I already concepted Guavian's ability, but I didn't started to make project yet (Credit: @darthiron provide legacy Guavian Security model)
-[2025-03-18 12:35:02] BattlefrontModding #showcase: Wookie Warrior, Ovissian Gunner, and Caphex Spy now have new appearaces in Appearances Augmented - Classes Alpha V1.2!
-[2025-03-19 14:04:49] BattlefrontModding #showcase: Two new renders for Appearances Augmented Alpha V1.2
-[2025-03-19 17:41:03] BattlefrontModding #showcase: The full set of backgrounds I expect to use in the initial release of my dynamic EoR backgrounds mod.
--# lucrehulk doesn't have a custom background because I couldn't find artwork, endor_day is indoor (again because I couldn't find anything), and several maps have concept art from bf1 dlc (mostly rogue one maps I think)
