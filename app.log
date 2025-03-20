@@ -1,0 +1,77 @@
+2025-03-06 21:28:53,006 - ERROR - Attempting a reconnect in 1.96s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-07 01:31:24,640 - ERROR - Attempting a reconnect in 1.56s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-15 17:12:08,891 - ERROR - Attempting a reconnect in 1.93s
+Traceback (most recent call last):
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-15 23:04:00,215 - ERROR - Attempting a reconnect in 1.64s
+Traceback (most recent call last):
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-15 23:35:30,201 - ERROR - Attempting a reconnect in 0.67s
+Traceback (most recent call last):
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-17 15:54:57,749 - ERROR - Attempting a reconnect in 1.26s
+Traceback (most recent call last):
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "C:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-17 17:07:44,746 - ERROR - Attempting a reconnect in 1.19s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-18 16:06:17,179 - ERROR - Attempting a reconnect in 1.86s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-19 16:31:45,013 - ERROR - Attempting a reconnect in 0.73s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-19 18:13:25,503 - ERROR - Attempting a reconnect in 1.45s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000
+2025-03-19 21:18:57,823 - ERROR - Attempting a reconnect in 1.54s
+Traceback (most recent call last):
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\client.py", line 617, in connect
+    await self.ws.poll_event()
+  File "c:\Users\maste\AppData\Local\Programs\Python\Python310\lib\site-packages\discord\gateway.py", line 630, in poll_event
+    raise ConnectionClosed(
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1000

@@ -1,0 +1,4 @@
+{
+    "deepseek.provider": "volcengine",
+    "editor.defaultFoldingRangeProvider": "ms-python.vscode-pylance"
+}
